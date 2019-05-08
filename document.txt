@@ -1,0 +1,6 @@
+Instructions :
+	1)Telecharger,installer Uamp
+	2)Cloner le projet depuis ce lien https://github.com/RootChad/projetCinemaWeb
+	3)Mettre le projet dans le dossier www de uamp
+	4)Ouvrir phpMyAdmin sur un navigateur puis importer la base de donnée 
+	
